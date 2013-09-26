@@ -1,0 +1,32 @@
+#myTxt{
+	position: fixed;
+	top: 15%;
+	width: 90%;
+	height: 10%;
+	border-style:solid;
+	border-width:5px;
+	background-color: transparent;
+	font-family:"Verdana", Arial, sans-serif;	
+	text-align: centre;
+}
+
+button{
+	position: fixed;
+	top: 30%;
+	width: 90%;
+	height: 10%;
+	background-color: #C0C0C0;
+	font-family:"Verdana", Arial, sans-serif;
+}
+
+p{
+	font-family:"Verdana", Arial, sans-serif;
+	text-align: centre;	
+}
+
+#greeting{
+	position: fixed;
+	top: 45%;
+}
+
+
